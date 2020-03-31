@@ -1,0 +1,2 @@
+# netstat -ano|findstr "PID :8050"
+# taskkill /pid *pid* /f
